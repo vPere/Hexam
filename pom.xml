@@ -12,7 +12,7 @@
         <module>application</module>
         <module>configuration</module>
         <module>domain</module>
-        <module>persistanceAdapter</module>
+        <module>persistenceAdapter</module>
         <module>webAdapter</module>
     </modules>
 
